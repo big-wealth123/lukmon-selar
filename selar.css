@@ -16,6 +16,15 @@ header{
     padding: 0.5% 4.5%;
     /* border: 1px solid green; */
 }
+header >img:first-child{
+    right: 4%;
+    position: fixed;
+    top: 80%;
+    border-radius: 100%;
+    /* border: 1px solid white; */
+    color: white;
+
+}
 
 header i{
     color: white;
